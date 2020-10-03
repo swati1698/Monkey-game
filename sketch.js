@@ -39,7 +39,7 @@ function setup() {
 
 
 function draw() {
-  background("white");
+  background("pink");
 
   if(gameState==="play")
   {
